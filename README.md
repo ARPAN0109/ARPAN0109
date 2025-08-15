@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpan Dey</h1>
-<h3 align="center">I'm Arpan Dey. Currently I'm pursuing B.Tech degree in Computer Science & Engineering.</h3>
+<h3 align="center">Fresher Graduate in Computer Science & Enginneering (June,2025).</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0y4wpsTyZGkFyRs64dXg4l&ust=1733328363493000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi-3b39i4oDFQAAAAAdAAAAABAj">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan0109&label=Profile%20views&color=0e75b6&style=flat" alt="arpan0109" /> </p>
-
-- Currently learning **java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
