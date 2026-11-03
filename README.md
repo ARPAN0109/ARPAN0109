@@ -1,108 +1,184 @@
 <h1 align="center">Hi 👋, I'm Arpan Dey</h1>
-<h3 align="center">Software Developer | Java Backend Enthusiast | CSE Graduate (2025)</h3>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">
+  Software Developer | Backend & Full-Stack Development | CSE Graduate
+</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=arpan0109&label=Profile%20views&color=0e75b6&style=flat" alt="arpan0109" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Java+Backend+Enthusiast;Full+Stack+Developer;Building+Real+World+Applications&center=true&width=550&height=45">
+</p>
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arpan0109&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (June 2025)
-- 💻 Passionate about **Java Backend Development**
-- 🌱 Currently learning **Spring Boot & System Design**
-- 🧠 Strong interest in **DSA & Problem Solving**
-- 🚀 Goal: To work in a reputed IT company as a Software Engineer
+I'm a Software Developer with professional experience in developing web applications, mobile applications, backend systems, and database-driven solutions.
+
+- 🎓 B.Tech in Computer Science & Engineering (2025)
+- 💼 Working as a **Software Developer at Tedviser**
+- 💻 Experienced in developing responsive websites and mobile applications.
+- ⚙️ Working with PHP, JavaScript, React, React Native, MySQL and Java.
+- 🔗 Experienced in API integration, database management and payment gateway integration.
+- 🌱 Currently focusing on **Java Backend Development, Spring Boot & System Design**.
+- 🧠 Interested in Data Structures, Algorithms and Problem Solving.
+- 🚀 Passionate about building scalable applications and solving real-world problems.
 
 ---
 
-### 🔗 Connect with Me
+### 🛠️ Technical Skills
 
+#### Programming Languages
 <p align="left">
-<a href="https://linkedin.com/in/arpan-dey-75696821b" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+  <img src="https://skillicons.dev/icons?i=java,php,js,python" />
+</p>
 
-<a href="https://instagram.com/itz_arpan32" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+#### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-<a href="https://www.hackerrank.com/arpandey03" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
+#### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,spring,nodejs" />
+</p>
+
+#### Mobile Application Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,android,expo" />
+</p>
+
+#### Database & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+</p>
+
+#### Machine Learning & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 💼 Professional Experience
 
-<p align="left">
+**Software Developer | Tedviser**  
+`November 2025 – Present`
 
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.oracle.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</a>
-
-</p>
+- Developing and maintaining dynamic web applications.
+- Building backend functionality using PHP and MySQL.
+- Developing responsive frontend interfaces using JavaScript and React.
+- Working on cross-platform mobile applications using React Native and Expo.
+- Integrating third-party APIs and payment gateway services.
+- Managing database operations, application deployment and maintenance.
+- Working on real-world business applications and software solutions.
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🔹 **Crime Forecasting using ConvLSTM**
-  - Deep learning model for predicting crime patterns with time-series data
-  - Technologies: Python, TensorFlow, Deep Learning
+#### 1. School ERP & Fee Management System
+- Developed a database-driven ERP solution for school management.
+- Implemented student fee management and accountant functionalities.
+- Integrated PHP and MySQL backend services.
+- Worked on online payment gateway integration using BillDesk.
+- Connected the backend with a React Native mobile application.
 
-- 🔹 **Full Stack Web Applications**
-  - Developed responsive web apps using MERN stack
-  - Implemented authentication & database integration
+**Technologies:** PHP, MySQL, JavaScript, React Native, Expo, REST APIs.
 
-- 🔹 **Java & Database Projects**
-  - Object-Oriented Programming based applications
-  - MySQL database connectivity
+#### 2. SDA – Mobile Application
+- Developed a cross-platform mobile application using React Native.
+- Integrated application features with a PHP/MySQL backend.
+- Worked on API communication and application functionality.
+- Prepared Android application builds using Expo EAS.
+
+**Technologies:** React Native, Expo, PHP, MySQL, JavaScript.
+
+#### 3. Predictive Crime Analysis Using ConvLSTM
+- Developed a machine learning-based crime forecasting system.
+- Analyzed 21 years of district-wise crime data from West Bengal.
+- Implemented ConvLSTM, LSTM and Random Forest models.
+- Developed interactive geographical visualizations using Folium.
+
+**Technologies:** Python, TensorFlow, ConvLSTM, Machine Learning, Streamlit.
+
+#### 4. Stock Market Prediction
+- Developed an LSTM-based stock market prediction model.
+- Performed time-series data analysis and visualization.
+- Built an interactive interface using Streamlit.
+
+**Technologies:** Python, Jupyter Notebook, LSTM, Streamlit.
+
+#### 5. Java Notepad Application
+- Developed a desktop-based text editor.
+- Implemented basic text editing functionalities.
+- Used object-oriented programming concepts.
+
+**Technologies:** Java, Swing, AWT.
 
 ---
 
-### 📊 GitHub Stats
+### 📚 Currently Learning
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpan0109&show_icons=true&locale=en&layout=compact" alt="arpan0109" />
-</p>
+- Advanced Java Programming
+- Spring Boot & Spring Framework
+- RESTful API Development
+- Microservices Architecture
+- Data Structures & Algorithms
+- System Design
+- Backend Performance Optimization
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpan0109&show_icons=true&locale=en" alt="arpan0109" />
-</p>
+---
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpan0109" alt="arpan0109" />
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/arpan-dey-75696821b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+  </a>
+
+  <a href="https://instagram.com/itz_arpan32" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/arpandey03" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-### ⭐ Fun Fact
+### 📊 GitHub Statistics
 
-> "Consistency beats talent when talent doesn't work hard."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpan0109&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan0109&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan0109&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
+
+### 🎯 My Career Objective
+
+To continuously improve my software engineering skills, build efficient and scalable applications, contribute to challenging projects, and grow as a professional Software Engineer.
+
+---
+
+<p align="center">
+  <b>💡 "Great software is built through consistency, curiosity, and continuous improvement."</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
