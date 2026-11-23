@@ -155,13 +155,13 @@ I'm a Software Developer with professional experience in developing web applicat
 
 ### 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpan0109&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan0109&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan0109&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
