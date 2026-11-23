@@ -4,16 +4,6 @@
   Full-Stack Developer | Backend & Full-Stack Development
 </h3>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Java+Backend+Enthusiast;Full+Stack+Developer;Building+Real+World+Applications&center=true&width=550&height=45">
-</p> -->
-
-<!-- <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arpan0109&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p> -->
-
 ---
 
 ### 👨‍💻 About Me
