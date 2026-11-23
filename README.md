@@ -4,9 +4,9 @@
   Software Developer | Backend & Full-Stack Development | CSE Graduate
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Java+Backend+Enthusiast;Full+Stack+Developer;Building+Real+World+Applications&center=true&width=550&height=45">
-</p>
+</p> -->
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
