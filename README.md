@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Arpan Dey</h1>
 
 <h3 align="center">
@@ -10,48 +11,12 @@
 
 I'm a Software Developer with professional experience in developing web applications, mobile applications, backend systems, and database-driven solutions.
 
--  B.Tech in Computer Science & Engineering (2021-2025)
--  Working as a **Web Developer at [Tedviser](https://tedviser.com/)**
--  Experienced in developing responsive websites and mobile applications.
--  Working with PHP, JavaScript, React, React Native, MySQL and Java.
--  Experienced in API integration, database management and payment gateway integration.
--  Passionate about building scalable applications and solving real-world problems.
-
----
-
-
-### 🛠️ Technical Skills
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4>Programming Languages</h4>
-      <img src="https://skillicons.dev/icons?i=java,php,js,python" />
-    </td>
-    <td align="center" width="33%">
-      <h4>Frontend Development</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,react" />
-    </td>
-    <td align="center" width="33%">
-      <h4>Backend Development</h4>
-      <img src="https://skillicons.dev/icons?i=php,nodejs" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h4>Mobile Development</h4>
-      <img src="https://skillicons.dev/icons?i=react,android,expo" />
-    </td>
-    <td align="center" width="33%">
-      <h4>Database & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
-    </td>
-    <td align="center" width="33%">
-      <h4>Machine Learning</h4>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-    </td>
-  </tr>
-</table>
+- B.Tech in Computer Science & Engineering (2021-2025)
+- Working as a **Web Developer at [Tedviser](https://tedviser.com/)**
+- Experienced in developing responsive websites and mobile applications.
+- Working with PHP, JavaScript, React, React Native, MySQL and Java.
+- Experienced in API integration, database management and payment gateway integration.
+- Passionate about building scalable applications and solving real-world problems.
 
 ---
 
@@ -99,6 +64,41 @@ I'm a Software Developer with professional experience in developing web applicat
 
 ---
 
+### 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>Programming Languages</h4>
+      <img src="https://skillicons.dev/icons?i=java,php,js,python" />
+    </td>
+    <td align="center" width="33%">
+      <h4>Frontend Development</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,react" />
+    </td>
+    <td align="center" width="33%">
+      <h4>Backend Development</h4>
+      <img src="https://skillicons.dev/icons?i=php,nodejs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h4>Mobile Development</h4>
+      <img src="https://skillicons.dev/icons?i=react,android,expo" />
+    </td>
+    <td align="center" width="33%">
+      <h4>Database & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+    </td>
+    <td align="center" width="33%">
+      <h4>Machine Learning</h4>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📚 Currently Learning
 
 - Advanced Java Programming
@@ -117,11 +117,9 @@ I'm a Software Developer with professional experience in developing web applicat
   <a href="https://linkedin.com/in/arpan-dey-75696821b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
   </a>
-
   <a href="https://instagram.com/itz_arpan32" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>
   </a>
-
   <a href="https://www.hackerrank.com/arpandey03" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40"/>
   </a>
