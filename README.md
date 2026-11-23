@@ -34,7 +34,7 @@ I'm a Software Developer with professional experience in developing web applicat
     </td>
     <td align="center" width="33%">
       <h4>Backend Development</h4>
-      <img src="https://skillicons.dev/icons?i=php,spring,nodejs" />
+      <img src="https://skillicons.dev/icons?i=php,nodejs" />
     </td>
   </tr>
   <tr>
