@@ -104,6 +104,7 @@ I'm a Software Developer with professional experience in developing web applicat
 - Developed interactive geographical visualizations using Folium.
 
 **Technologies:** Python, TensorFlow, ConvLSTM, Machine Learning, Streamlit.
+
 ---
 
 ### 📚 Currently Learning
