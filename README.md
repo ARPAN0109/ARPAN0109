@@ -21,7 +21,7 @@
 I'm a Software Developer with professional experience in developing web applications, mobile applications, backend systems, and database-driven solutions.
 
 -  B.Tech in Computer Science & Engineering (2025)
--  Working as a **Web Developer at Tedviser**
+- Working as a **Web Developer at [Tedviser](https://tedviser.com/)**
 -  Experienced in developing responsive websites and mobile applications.
 -  Working with PHP, JavaScript, React, React Native, MySQL and Java.
 -  Experienced in API integration, database management and payment gateway integration.
