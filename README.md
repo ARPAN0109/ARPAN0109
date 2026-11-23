@@ -19,37 +19,39 @@ I'm a Software Developer with professional experience in developing web applicat
 
 ---
 
+
 ### 🛠️ Technical Skills
 
-#### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,js,python" />
-</p>
-
-#### Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-#### Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,spring,nodejs" />
-</p>
-
-#### Mobile Application Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,android,expo" />
-</p>
-
-#### Database & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
-</p>
-
-#### Machine Learning & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>Programming Languages</h4>
+      <img src="https://skillicons.dev/icons?i=java,php,js,python" />
+    </td>
+    <td align="center" width="33%">
+      <h4>Frontend Development</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,react" />
+    </td>
+    <td align="center" width="33%">
+      <h4>Backend Development</h4>
+      <img src="https://skillicons.dev/icons?i=php,spring,nodejs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h4>Mobile Development</h4>
+      <img src="https://skillicons.dev/icons?i=react,android,expo" />
+    </td>
+    <td align="center" width="33%">
+      <h4>Database & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+    </td>
+    <td align="center" width="33%">
+      <h4>Machine Learning</h4>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+    </td>
+  </tr>
+</table>
 
 ---
 
