@@ -106,21 +106,6 @@ I'm a Software Developer with professional experience in developing web applicat
 - Developed interactive geographical visualizations using Folium.
 
 **Technologies:** Python, TensorFlow, ConvLSTM, Machine Learning, Streamlit.
-
-#### 4. Stock Market Prediction
-- Developed an LSTM-based stock market prediction model.
-- Performed time-series data analysis and visualization.
-- Built an interactive interface using Streamlit.
-
-**Technologies:** Python, Jupyter Notebook, LSTM, Streamlit.
-
-#### 5. Java Notepad Application
-- Developed a desktop-based text editor.
-- Implemented basic text editing functionalities.
-- Used object-oriented programming concepts.
-
-**Technologies:** Java, Swing, AWT.
-
 ---
 
 ### 📚 Currently Learning
