@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpan Dey</h1>
 
 <h3 align="center">
-  Software Developer | Backend & Full-Stack Development | CSE Graduate
+  Full-Stack Developer | Backend & Full-Stack Development
 </h3>
 
 <!-- <p align="center">
@@ -20,14 +20,14 @@
 
 I'm a Software Developer with professional experience in developing web applications, mobile applications, backend systems, and database-driven solutions.
 
-- 🎓 B.Tech in Computer Science & Engineering (2025)
-- 💼 Working as a **Software Developer at Tedviser**
-- 💻 Experienced in developing responsive websites and mobile applications.
-- ⚙️ Working with PHP, JavaScript, React, React Native, MySQL and Java.
-- 🔗 Experienced in API integration, database management and payment gateway integration.
-- 🌱 Currently focusing on **Java Backend Development, Spring Boot & System Design**.
-- 🧠 Interested in Data Structures, Algorithms and Problem Solving.
-- 🚀 Passionate about building scalable applications and solving real-world problems.
+-  B.Tech in Computer Science & Engineering (2025)
+-  Working as a **Web Developer at Tedviser**
+-  Experienced in developing responsive websites and mobile applications.
+-  Working with PHP, JavaScript, React, React Native, MySQL and Java.
+-  Experienced in API integration, database management and payment gateway integration.
+-  Currently focusing on **Java Backend Development, Spring Boot & System Design**.
+-  Interested in Data Structures, Algorithms and Problem Solving.
+-  Passionate about building scalable applications and solving real-world problems.
 
 ---
 
